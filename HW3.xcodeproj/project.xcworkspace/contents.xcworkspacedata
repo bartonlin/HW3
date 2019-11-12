@@ -2,6 +2,30 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:HW3.xcodeproj">
+      location = "group:../HW3/AppDelegate.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../HW3/Assets.xcassets">
+   </FileRef>
+   <FileRef
+      location = "group:../HW3/Base.lproj">
+   </FileRef>
+   <FileRef
+      location = "group:../HW3/ContentView.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../HW3/EditPhotoView.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../HW3/Info.plist">
+   </FileRef>
+   <FileRef
+      location = "group:../HW3/Preview Content">
+   </FileRef>
+   <FileRef
+      location = "group:../HW3/SceneDelegate.swift">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
