@@ -13,6 +13,7 @@
 		590FF95A237AD72100D51078 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 590FF959237AD72100D51078 /* Assets.xcassets */; };
 		590FF95D237AD72100D51078 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 590FF95C237AD72100D51078 /* Preview Assets.xcassets */; };
 		590FF960237AD72100D51078 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 590FF95E237AD72100D51078 /* LaunchScreen.storyboard */; };
+		590FF968237ADE4B00D51078 /* EditPhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 590FF967237ADE4B00D51078 /* EditPhotoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		590FF95C237AD72100D51078 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		590FF95F237AD72100D51078 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		590FF961237AD72100D51078 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		590FF967237ADE4B00D51078 /* EditPhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditPhotoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				590FF95E237AD72100D51078 /* LaunchScreen.storyboard */,
 				590FF961237AD72100D51078 /* Info.plist */,
 				590FF95B237AD72100D51078 /* Preview Content */,
+				590FF967237ADE4B00D51078 /* EditPhotoView.swift */,
 			);
 			path = HW3;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				590FF954237AD72000D51078 /* AppDelegate.swift in Sources */,
+				590FF968237ADE4B00D51078 /* EditPhotoView.swift in Sources */,
 				590FF956237AD72000D51078 /* SceneDelegate.swift in Sources */,
 				590FF958237AD72000D51078 /* ContentView.swift in Sources */,
 			);
